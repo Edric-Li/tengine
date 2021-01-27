@@ -1,8 +1,9 @@
-# Simple docker image of Tengine web server based on Alpine #
+# Simple docker image of Tengine web server based on Alpine 
+[中文](https://github.com/Shealtiel-Li/tengine/blob/master/README_CN.md)
 ***
 ## Tengine
-- [more about Tengine](http://tengine.taobao.org)
 - [docs](http://tengine.taobao.org/documentation.html)
+- [more about Tengine](http://tengine.taobao.org)
 
 in this image added [Upstream check module](http://tengine.taobao.org/document/http_upstream_check.html)
 
